@@ -1,3 +1,4 @@
+# Muhammad Hussain
 <div align="center">
   <h1>Snake</h1>
   <img src="assets/snake.png " />
